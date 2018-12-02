@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ErSaGround
+  - ErSaGoal
+  - ErSaPlayerDeath
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ErSaSky
+    uniqueID: 137417413
+    locked: 0
+  - name: ErSaGround
+    uniqueID: 1719072757
+    locked: 0
+  - name: ErSaGoal
+    uniqueID: 2295794845
+    locked: 0
+  - name: ErSaPlayer
+    uniqueID: 727749099
+    locked: 0
+  - name: ErSaNet
+    uniqueID: 578628005
+    locked: 0
